@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'motor',
+    'qual a principal função e um motor de carro?',
+    'a principal função é converter energia e um combustível em eneria mecanica '
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    ´bateria',
+    'qual função da bateria e um carro',
+    'fornecer energia eletríca para a partida do motor e alimentar os sistemas elétricos'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'cambio',
+    'qual a função de um cambio?',
+    'controla a força e velocidade de um carro'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'freio',
+    'o que é freio de mão ?',
+    'trava o carro separado'
 )
